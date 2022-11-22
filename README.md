@@ -1,4 +1,4 @@
-# CSE676_Final_Project
+# RL Gym Environments
 This project contains a single ipynb file meant to be ran in google colab.
 It is a sequence of solutions for training agents to solve different Reinforcement
 Learning Environments
